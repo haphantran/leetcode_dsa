@@ -5,7 +5,7 @@ This repository contains my journey learning Data Structures and Algorithms usin
 ## Progress Tracker
 
 ### 🎯 Two Pointers
-- [x] Introduction to Two Pointers
+
 - [x] [Valid Palindrome](./two_pointers/valid_palindrome.py) - [LeetCode #125](https://leetcode.com/problems/valid-palindrome/)
 - [x] [3Sum](./two_pointers/three_sum.py) - [LeetCode #15](https://leetcode.com/problems/3sum/)
 - [x] [Remove Nth Node from End of List](./two_pointers/remove_nth_node.py) - [LeetCode #19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -101,48 +101,6 @@ This repository contains my journey learning Data Structures and Algorithms usin
 ### 📐 Math and Geometry
 - [ ] Introduction to Math and Geometry
 
-## Repository Structure
-
-```
-dsa_learn/
-├── README.md
-├── two_pointers/
-│   ├── valid_palindrome.py
-│   ├── three_sum.py
-│   ├── remove_nth_node.py
-│   ├── sort_colors.py
-│   ├── reverse_words.py
-│   ├── valid_word_abbreviation.py
-│   └── ...
-├── fast_slow_pointers/
-├── sliding_window/
-├── merge_intervals/
-├── linked_list_manipulation/
-├── heaps/
-├── k_way_merge/
-├── top_k_elements/
-├── modified_binary_search/
-├── subsets/
-├── greedy_techniques/
-├── backtracking/
-├── dynamic_programming/
-├── cyclic_sort/
-├── topological_sort/
-├── sort_and_search/
-├── matrices/
-├── stacks/
-├── graphs/
-├── tree_dfs/
-├── tree_bfs/
-├── trie/
-├── hash_maps/
-├── knowing_what_to_track/
-├── union_find/
-├── custom_data_structures/
-├── bitwise_manipulation/
-└── math_and_geometry/
-```
-
 ## How to Use This Repository
 
 1. Each topic has its own directory
@@ -166,5 +124,5 @@ dsa_learn/
 - [Python Documentation](https://docs.python.org/3/)
 
 ---
+Ha Phan Tran
 
-*Last Updated: January 19, 2025*
