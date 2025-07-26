@@ -14,7 +14,7 @@ This repository contains my journey learning Data Structures and Algorithms usin
 - [x] [Valid Word Abbreviation](./two_pointers/valid_word_abbreviation.py) - [LeetCode #408](https://leetcode.com/problems/valid-word-abbreviation/)
 - [x] [Strobogrammatic Number](./two_pointers/strobogrammatic_number.py) - [LeetCode #246](https://leetcode.com/problems/strobogrammatic-number/)
 - [x] [Minimum Number of Moves to Make Palindrome](./two_pointers/min_moves_palindrome.py) - [LeetCode #2193](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)
-- [ ] [Next Palindrome Using Same Digits](./two_pointers/next_palindrome_same_digits.py) - [LeetCode #1842](https://leetcode.com/problems/next-palindrome-using-same-digits/description/)
+- [x] [Next Palindrome Using Same Digits](./two_pointers/next_palindrome_same_digits.py) - [LeetCode #1842](https://leetcode.com/problems/next-palindrome-using-same-digits/description/)
 - [ ] [Lowest Common Ancestor of a Binary Tree III](./two_pointers/lca_binary_tree_iii.py) - [LeetCode #1650](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)
 - [ ] [Count Pairs Whose Sum is Less than Target](./two_pointers/count_pairs_sum_target.py) - [LeetCode #2824](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)
 - [ ] [Count Subarrays With Fixed Bounds](./two_pointers/count_subarrays_fixed_bounds.py) - [LeetCode #2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
